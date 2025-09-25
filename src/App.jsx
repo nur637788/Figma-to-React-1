@@ -1,5 +1,5 @@
 import React from "react";
-import Hero from "./Components/hero";
+import Hero from "./Components/Hero";
 import Card1 from "./Components/Card1";
 import Card2 from "./Components/Card2";
 import Card3 from "./Components/Card3";
